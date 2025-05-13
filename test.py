@@ -1,6 +1,6 @@
 import random
 
-com = random.randint(1, 100)
+com = random.randint(1, 1000)
 
 while True:
     user = int(input('数字を入力してください(1-100): '))
