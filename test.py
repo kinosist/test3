@@ -1,7 +1,7 @@
 import random
 
-com = random.randint(1, 100)
 cnt = 0
+com = random.randint(1, 1000)
 
 while True:
     cnt = +1
